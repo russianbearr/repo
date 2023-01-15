@@ -1,1 +1,13 @@
-
+Package: com.russianbear.transnoti
+Name: TransNoti
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Orion tweak!
+Maintainer: russianbear
+Author: russianbear
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
+Filename: ./debians/com.russianbear.transnoti.deb
+Size: 25354
+MD5sum: 1dc47d61498b427c8f6d29f1e9193873
+Depiction: https://russianbearr.github.io/repo/decections/transnoti
