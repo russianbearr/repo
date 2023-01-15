@@ -10,4 +10,5 @@ Depends: ${ORION}, firmware (>= 12.2)
 Filename: ./debians/com.russianbear.transnoti.deb
 Size: 25354
 MD5sum: 1dc47d61498b427c8f6d29f1e9193873
-Depiction: https://russianbearr.github.io/repo/decections/transnoti
+Depiction: https://russianbearr.github.io/repo/depictions/web/?p=com.russianbear.transnoti
+SileoDepiction: https://russianbearr.github.io/repo/depictions/native/com.russianbear.transnoti/depiction.json
