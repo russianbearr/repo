@@ -6,7 +6,7 @@ Description: An awesome Orion tweak!
 Maintainer: russianbear
 Author: russianbear
 Section: Tweaks
-Depends: ${ORION}, firmware (>= 12.2)
+Depends: dev.theos.orion14
 Filename: ./debians/com.russianbear.transnoti.deb
 Size: 25354
 MD5sum: 1dc47d61498b427c8f6d29f1e9193873
