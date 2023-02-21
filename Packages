@@ -1,17 +1,51 @@
 Package: com.russianbear.nodndiconlockscreen
-Name: noDNDiconLockScreen
-Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.
-Maintainer: russianbear
-Author: russianbear
+Version: 0.0.1
 Section: Tweaks
-Depends: dev.theos.orion (>= 1.0.0)
+Maintainer: russianbear
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/com.russianbear.nodndiconlockscreen.deb
+Size: 16634
+MD5sum: 80d83bbe8a5dd2e8eed2e35174b9b88d
+SHA1: 15fd5f1372723f39c9f22baa20ce8c99fbf6587d
+SHA256: 84c2a1c2b12c1bb9234e634f9b6ed9568e70bd9dc74969a6b91b39dfcf5dfdae
+SHA512: ff71a0f192f030fc12a74cdfa46cf07d8da388141352328b42c6356ef17e1c6ac9f075ad0f92710784224caac2a2f445cf23611125b8989d6ee219e24dd69808
+Description: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.
+Name: noDNDiconLockScreen
+Author: russianbear
+
+Package: com.russianbear.nodndiconlockscreen
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: russianbear
+Installed-Size: 164
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
 Filename: ./debians/com.russianbear.nodndiconlockscreen_0.0.1_iphoneos-arm.deb
 Size: 16634
 MD5sum: 80d83bbe8a5dd2e8eed2e35174b9b88d
 SHA1: 15fd5f1372723f39c9f22baa20ce8c99fbf6587d
 SHA256: 84c2a1c2b12c1bb9234e634f9b6ed9568e70bd9dc74969a6b91b39dfcf5dfdae
 SHA512: ff71a0f192f030fc12a74cdfa46cf07d8da388141352328b42c6356ef17e1c6ac9f075ad0f92710784224caac2a2f445cf23611125b8989d6ee219e24dd69808
-Depiction: https://github.com/russianbearr/repo/depictions/web/?p=com.russianbear.nodndiconlockscreen
+Description: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.
+Name: noDNDiconLockScreen
+Author: russianbear
+
+Package: com.russianbear.transnoti
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: russianbear
+Installed-Size: 328
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/com.russianbear.transnoti.deb
+Size: 25354
+MD5sum: 1dc47d61498b427c8f6d29f1e9193873
+SHA1: dd73e8615ec103b157ca8b5b724a3fc8d603e5ea
+SHA256: 91a878684eb6ccd94c1f2b2ee034ce04e5d087575233aff0cc22b8c18f2caea6
+SHA512: 1e504cb16dd4e23e95d8ac913c3ec260f77e1d0776194f0bc6b64bc273867442fdfdcec936de4e20b86df18ce88e9cca4c2956440985f159314c82fbc78dfd03
+Description: An awesome Orion tweak!
+Name: TransNoti
+Author: russianbear
 
