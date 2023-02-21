@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: russianbear
 Installed-Size: 164
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debians/com.russianbear.nodndiconlockscreen.deb
+Filename: ./debians/com.russianbear.nodndiconlockscreen_0.0.1_iphoneos-arm.deb
 Size: 16634
 MD5sum: 80d83bbe8a5dd2e8eed2e35174b9b88d
 SHA1: 15fd5f1372723f39c9f22baa20ce8c99fbf6587d
