@@ -10,10 +10,9 @@
 	<dependencies>
 		<package>dev.theos.orion (>= 1.0.0)</package>
 	</dependencies>
-	<shortDescription>Description: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.</shortDescription>
+<shortDescription>Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.</shortDescription>
 	<descriptionlist>
-		<descriptionDescription: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.
-</description>
+		<description>Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
