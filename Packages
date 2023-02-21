@@ -14,5 +14,4 @@ SHA512: ff71a0f192f030fc12a74cdfa46cf07d8da388141352328b42c6356ef17e1c6ac9f075ad
 Description: Hide the Do Not Disturb icon on Lockscreen: introduced on ios 15.
 Name: noDNDiconLockScreen
 Author: russianbear
-Depiction: https://russianbearr.github.io/repo/depictions/web/?p=com.russianbear.nodndiconlockscreen
-SileoDepiction: https://russianbearr.github.io/repo/depictions/native/com.russianbear.nodndiconlockscreene/depiction.json
+

@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: Russian_Bear
 Components: main
-Date: Tue, 21 Feb 2023 15:59:37 +0000
+Date: Tue, 21 Feb 2023 16:11:26 +0000
 Description: Russian Bear's Repo
 Label: Russian Bear's Repo
 Origin: Russian Bear's Repo
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  30defbd6bdc618527a89b800da40fec2              718 Packages
  75265b14622ec50e76400faa5dcc42f0              525 Packages.bz2
- 425458c0be79226f99da914f2d811267              490 Packages.gz
+ 819c21868e89d3628aa1ac1e4452628a              490 Packages.gz
  4b128b5d5bb08797beb2302bc18e6901              564 Packages.xz
  5c79a6067be864407ac7a6ac1be74322              483 Packages.zst
- 33c4cb3e807832a067b2f0b2e55f6571              221 Release
+ ef3e3ac0590600562aa95562b37e5ccc              221 Release
 SHA1:
  eb8caec44319e789b25e181c7fdb69df6824fbbf              718 Packages
  709cce39006bbe3aee871e199c3cdfa1146f11cf              525 Packages.bz2
- 84c5886317ce9e68620d7aee488df3ce630d7611              490 Packages.gz
+ 632662b848382e45e04dd7bf0d8c2b827d44aa4e              490 Packages.gz
  8160cddf9700beded137fed00e95616661952d80              564 Packages.xz
  5cded6a2a475ca60ca5a33fff14d13cc6b585bb8              483 Packages.zst
- 80d65914f054d1003342e9fe8606f5e7c80db8ec              221 Release
+ dfb5c701da11937deddc4f8b99e6c385548aef90              221 Release
 SHA256:
  7b87005059bca66e22b4525be7d6389f634e191bbf0d8e490779da80d4eb7421              718 Packages
  8fc55697e4d87e60f8b5bd6356cfdb0e4f4adf2f41338a35d5f2ead091d20911              525 Packages.bz2
- 1e71d6ddb3041f61a2c544e231518945da393c99e42ef47c9a466e83a0e4b75f              490 Packages.gz
+ 50c745d69b6d572e9ba525652bef84e7ffc4edc57703465a71fea4b5776bac1a              490 Packages.gz
  d86442e1d0711ee117421e1318bbdfd4abe0a4a276521cc2dcc35ca48732cc4d              564 Packages.xz
  2c3c708728aa3d224100eba45cd23a2167753d35f546f2911a023cd51890b57a              483 Packages.zst
- ca7bac63c5211033538aa877f9bbaf5df2a955061697c335e5cabb6bc2fcc179              221 Release
+ 4d1d664913f078ec8bc4d4a596617bb77febbc55fa563fea7f593d678264bea0              221 Release
 SHA512:
  816fb94f548cd0ceae161f2d60534c8e2815e901c255ff009bbdbe802ed8affba8bb6d828dae3d6d74807a2b3bd4c9c108cf8b1602dbb928b6abc6826cc01e27              718 Packages
  117741076c789df6811cb95578dd88d62d05bc2eb1f9a35e29ee0963d0985456e12ef2a5d3bea0b1b615b431a187ccb5ec940f83f669b9611ec739ba3ffb4ad2              525 Packages.bz2
- 0416e685aa90d205447a02033afb6862c842f62cf58cc5b768098a8947d3c7a0315eb32e194946e20bdb6648700c9d831e5386b40f1221b70a36e1e9ceced328              490 Packages.gz
+ d4950798f6a8d1c15b02c23519dbb82579de5b548ee69c72e6e3774396671b87f253183fee50e34fcb0ff786673866a05ddc8b824974156d9d3faa68a31436a1              490 Packages.gz
  a36ba83ffb4a480dc47566af55de74e0fa168fdf2bcf7c77afc3897a586ccda45431d42fa86f09561021a404e7e59fc262caf8e712e4065e292277f6ea95b8cc              564 Packages.xz
  82d584e6e88d62a9ddcb7789f025d1932bb4013c7eb7c54b1ce38dbbe5ef1321c3fcadb41f114cfe8e1a1e8d04e30115944dbfe42d7433ed6546ca83c65d7eb1              483 Packages.zst
- 1d35859462d5e3878d9bf3875cd55706a3dc7ba892bf81a5e345bc2043e5a3f3e24d10961cd01258df580f7bda325f74271de78c6c8b508d509136471c3e7b6c              221 Release
+ 2fbcf24b37202918a431fac0d5b6afea036c7a8ae13911035cdfe9eef71174dae20ed2fa2f1023eb29e7cef5e42fd053ab4a1483d8c27bc4bc8a422d091084bb              221 Release
