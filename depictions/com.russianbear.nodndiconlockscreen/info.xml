@@ -1,0 +1,28 @@
+<package>
+	<id>com.russianbear.nodndiconlockscreen</id>
+	<name>noDNDiconLockScreen</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.2</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>dev.theos.orion</package>
+	</dependencies>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
